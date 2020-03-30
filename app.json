@@ -1,0 +1,9 @@
+
+{
+  "name": "Mario",
+  "description": "React powered Kill-Corona-Virus-Mario",
+  "repository": "https://github.com/glokesh94/Kill-Corona-Virus-Mario",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
